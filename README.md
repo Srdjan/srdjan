@@ -1,3 +1,9 @@
+```
+⚡ Hi there!
+
+Here is how to reach me:
+```
+</br>
 <a href="https://twitter.com/djidja8">
   <img align="left" alt="Srdjan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -11,5 +17,5 @@
 </br></br>
 
 ```
-- ⚡ Fun fact: Octopuses have three hearts
+⚡ Fun fact: Octopuses have three hearts
 ```
