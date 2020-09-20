@@ -1,7 +1,7 @@
 ```
 ⚡ Hi there!
 
-Here is how to reach me:
+
 ```
 </br>
 <a href="https://twitter.com/djidja8">
