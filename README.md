@@ -1,7 +1,7 @@
 ```
 ⚡ Hi there!
 
-
+⚡ Fun fact: Octopuses have three hearts
 ```
 </br>
 <a href="https://twitter.com/djidja8">
@@ -16,6 +16,3 @@
 
 </br></br>
 
-```
-⚡ Fun fact: Octopuses have three hearts
-```
