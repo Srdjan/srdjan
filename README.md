@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srdjan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srdjan" alt="srdjan" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://srdjan.github.io/](https://srdjan.github.io/)
-
 - ⚡ Fun fact **Did you know? Octopuses have three hearts**
 
 <p align="left">
