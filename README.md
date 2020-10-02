@@ -1,6 +1,6 @@
 <h3>Hi 👋, I'm Srdjan</h3>
 
-- ⚡ Fun fact **Did you know? Octopuses have three hearts**
+- ⚡ Fun fact... Did you know? Octopuses have three hearts
 
 <p align="left">
   <h4 align="left">Connect with me:
